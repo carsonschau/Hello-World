@@ -15,4 +15,4 @@ Using Rotten Tomatos Tomatometer score to predict how well a movie will do in bo
 
 ### Aditional Documentation
 
-*There is no other documentation other then [Score]https://www.listchallenges.com/top-100-movies-of-all-time-by-rotten-tomatoes
+*There is no other documentation other then [Scores](https://www.listchallenges.com/top-100-movies-of-all-time-by-rotten-tomatoes)*
