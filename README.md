@@ -4,10 +4,10 @@ Here is a project description on how I used Excel to predict if a higher rated s
 ### Table of Contents
 
 - [Project Title](#Project-Title)
-- [Description](Description)
-- [Files Used](Files-Used)
-- [Aditional Documentation](Aditional-Documentation)
-- [Versioning](Versioning)
+- [Description](#Description)
+- [Files Used](#Files-Used)
+- [Aditional Documentation](#Aditional-Documentation)
+- [Versioning](#Versioning)
 
 ### Project Title
 **Rotten Tomatos Tomatometer Score**
